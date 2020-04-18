@@ -59,3 +59,6 @@ To deploy Dashboard, execute following command:
 
   $ kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.0-rc7/aio/deploy/recommended.yaml
  
+To access Dashboard from your local workstation you must create a secure channel to your Kubernetes cluster. Run the following command:
+
+  $ kubectl proxy
