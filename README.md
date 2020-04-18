@@ -26,9 +26,13 @@ kind --help
 
 # Creating a Cluster
   Creating a Kubernetes cluster is as simple as 
+  
  $ kind create cluster
+ 
  $ kind get nodes
+ 
  $ docker ps --> to check how many containers running at the moment
+ 
  $ kind delete cluster
  
 # Multi-node clusters 
