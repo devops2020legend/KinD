@@ -7,8 +7,10 @@ https://kind.sigs.k8s.io/docs/user/quick-start/
 # Installation
 
 Pre-requisite:
-  Docker community edition installation
-  kubectl client for k8s.
+
+Docker community edition installation
+
+kubectl client for k8s.
 
 ## On macOS / Linux:
 
