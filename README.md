@@ -21,6 +21,7 @@ $ chmod +x ./kind
 $ mv ./kind /usr/local/bin
 
 kind --version
+
 kind --help
 
 # Creating a Cluster
