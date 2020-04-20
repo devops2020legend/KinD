@@ -12,6 +12,8 @@ Docker community edition installation
 
 kubectl client for k8s.
 
+kubectl version --client 
+
 ## On macOS / Linux:
 
 $ curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.7.0/kind-$(uname)-amd64
